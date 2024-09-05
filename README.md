@@ -1,2 +1,2 @@
 # Calculator
-This online tool is used to calculate the number.
+calculator for using calculations
